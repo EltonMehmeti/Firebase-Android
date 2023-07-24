@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "856462283121",
+    "project_id": "s6androidfirbase",
+    "storage_bucket": "s6androidfirbase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:856462283121:android:90b085512be53ffbe3a6d0",
+        "android_client_info": {
+          "package_name": "com.elton.s6androidcloud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "856462283121-u430c6os9n6mgd8i912h9et7g5tu82i9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2qrDtci1iAdGA1a-WgMqDVPut-LEEFSA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "856462283121-u430c6os9n6mgd8i912h9et7g5tu82i9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
